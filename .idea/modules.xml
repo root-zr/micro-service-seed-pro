@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/micro-service-seed-pro.iml" filepath="$PROJECT_DIR$/.idea/micro-service-seed-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seed-pro-common/seed-pro-common.iml" filepath="$PROJECT_DIR$/seed-pro-common/seed-pro-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seed-pro-service-login/seed-pro-service-login.iml" filepath="$PROJECT_DIR$/seed-pro-service-login/seed-pro-service-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seed-pro-service-withdraw/seed-pro-service-withdraw.iml" filepath="$PROJECT_DIR$/seed-pro-service-withdraw/seed-pro-service-withdraw.iml" />
+    </modules>
+  </component>
+</project>

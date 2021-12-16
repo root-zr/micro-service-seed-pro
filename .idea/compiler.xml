@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="seed-pro-service-withdraw" />
+        <module name="seed-pro-common" />
+        <module name="seed-pro-service-login" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="micro-service-seed-pro" target="1.8" />
+      <module name="seed-pro-common" target="1.8" />
+      <module name="seed-pro-service-login" target="1.8" />
+      <module name="seed-pro-service-withdraw" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="seed-pro-service-login" options="-parameters" />
+      <module name="seed-pro-service-withdraw" options="-parameters" />
+    </option>
+  </component>
+</project>
