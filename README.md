@@ -6,9 +6,13 @@
 #### 软件架构
 软件架构说明
 
+服务启动说明：
+开始之前需要保证开启nacos服务
 
 #### 安装教程
 
+nacos下载地址
+https://github.com/alibaba/nacos/releases
 1.  xxxx
 2.  xxxx
 3.  xxxx

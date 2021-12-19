@@ -12,8 +12,8 @@
 
     <modules>
         <module>seed-pro-common</module>
-        <module>seed-pro-service-login</module>
-        <module>seed-pro-service-withdraw</module>
+        <module>seed-pro-service-blogs</module>
+        <module>seed-pro-service-user</module>
     </modules>
 
 
