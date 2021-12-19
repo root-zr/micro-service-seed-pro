@@ -3,16 +3,23 @@
 #### 介绍
 微服务的种子文件
 
-#### 软件架构
-软件架构说明
+以博客服务作为例子的微服务种子文件，搭建了一个基本的微服务平台。
 
-服务启动说明：
-开始之前需要保证开启nacos服务
+#### 服务启动说明：
+
+开始之前需要保证开启nacos服务，nacos下载地址https://github.com/alibaba/nacos/releases
+
+启动后状态如下：
+
+![](img/nacos.PNG)
+
+可在web端对微服务状态进行管理, 如下图所示
+
+![](img/nacos web管理.PNG)
 
 #### 安装教程
 
-nacos下载地址
-https://github.com/alibaba/nacos/releases
+
 1.  xxxx
 2.  xxxx
 3.  xxxx
