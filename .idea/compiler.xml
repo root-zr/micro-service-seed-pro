@@ -10,11 +10,13 @@
         <module name="seed-pro-service-blogs" />
         <module name="seed-pro-common" />
         <module name="seed-pro-service-user" />
+        <module name="seed-pro-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="micro-service-seed-pro" target="1.8" />
       <module name="seed-pro-common" target="1.8" />
+      <module name="seed-pro-gateway" target="1.8" />
       <module name="seed-pro-service-blogs" target="1.8" />
       <module name="seed-pro-service-user" target="1.8" />
     </bytecodeTargetLevel>
@@ -22,6 +24,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="seed-pro-common" options="" />
+      <module name="seed-pro-gateway" options="-parameters" />
       <module name="seed-pro-service-blogs" options="-parameters" />
       <module name="seed-pro-service-user" options="-parameters" />
     </option>

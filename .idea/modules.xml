@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/micro-service-seed-pro.iml" filepath="$PROJECT_DIR$/.idea/micro-service-seed-pro.iml" />
       <module fileurl="file://$PROJECT_DIR$/seed-pro-common/seed-pro-common.iml" filepath="$PROJECT_DIR$/seed-pro-common/seed-pro-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seed-pro-gateway/seed-pro-gateway.iml" filepath="$PROJECT_DIR$/seed-pro-gateway/seed-pro-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/seed-pro-service-blogs/seed-pro-service-blogs.iml" filepath="$PROJECT_DIR$/seed-pro-service-blogs/seed-pro-service-blogs.iml" />
       <module fileurl="file://$PROJECT_DIR$/seed-pro-service-user/seed-pro-service-user.iml" filepath="$PROJECT_DIR$/seed-pro-service-user/seed-pro-service-user.iml" />
     </modules>

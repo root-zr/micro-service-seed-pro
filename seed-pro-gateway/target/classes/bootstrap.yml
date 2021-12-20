@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: seed-pro-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+#        file-extension: yml
+        namespace: 3b9d98f3-f1f5-4ba7-920a-23319a4c22e1
